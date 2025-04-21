@@ -61,11 +61,11 @@ export default function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <i className="fas fa-envelope text-primary mt-1 mr-3"></i>
-                <span className="text-neutral-400">contact@differentpathtolearning.com</span>
+                <span className="text-neutral-400">adifferentpathtolearing@gmail.com</span>
               </li>
               <li className="flex items-start">
                 <i className="fas fa-phone-alt text-primary mt-1 mr-3"></i>
-                <span className="text-neutral-400">+61 XXX XXX XXX</span>
+                <span className="text-neutral-400">0432 678 007</span>
               </li>
               <li className="flex items-start">
                 <i className="fas fa-clock text-primary mt-1 mr-3"></i>
