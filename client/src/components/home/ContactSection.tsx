@@ -165,7 +165,7 @@ export default function ContactSection() {
             transition={{ duration: 0.7 }}
           >
             <div className="bg-gradient-to-br from-primary/5 via-secondary/5 to-accent/5 rounded-3xl shadow-lg p-8 border border-neutral-200 h-full flex flex-col">
-              <h3 className="font-exo font-semibold text-2xl mb-6 text-neutral-800">Connect With Us</h3>
+              <h3 className="font-exo font-semibold text-2xl mb-6 text-neutral-800">Connect With Me</h3>
               
               <div className="space-y-8 flex-grow">
                 <div className="bg-white rounded-2xl p-6 shadow-sm">
@@ -203,7 +203,7 @@ export default function ContactSection() {
                 </div>
                 
                 <div className="bg-white rounded-2xl p-6 shadow-sm">
-                  <h4 className="font-exo font-semibold text-lg mb-4 text-neutral-800">Follow Us</h4>
+                  <h4 className="font-exo font-semibold text-lg mb-4 text-neutral-800">Follow Me</h4>
                   <div className="flex space-x-4">
                     <a href="#" className="w-12 h-12 rounded-full bg-blue-600 text-white flex items-center justify-center hover:bg-blue-700 transition-colors">
                       <i className="fab fa-facebook-f"></i>
@@ -224,7 +224,7 @@ export default function ContactSection() {
               <div className="mt-8 bg-white rounded-2xl p-6 shadow-sm">
                 <h4 className="font-exo font-semibold text-lg mb-3 text-neutral-800">Parent Testimonial</h4>
                 <blockquote className="text-neutral-700 italic mb-4">
-                  "The personalized approach has made all the difference for my son. He's not only improving academically but also gaining confidence and independence."
+                  "The personalised approach has made all the difference for my son. He's not only improving academically but also gaining confidence and independence."
                 </blockquote>
                 <footer className="text-right text-neutral-600 font-medium not-italic">— Parent of a 15-year-old student</footer>
               </div>
