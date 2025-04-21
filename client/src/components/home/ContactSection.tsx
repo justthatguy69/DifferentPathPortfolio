@@ -175,8 +175,8 @@ export default function ContactSection() {
                     </div>
                     <div>
                       <h4 className="font-exo font-semibold text-lg mb-1 text-neutral-800">Email</h4>
-                      <a href="mailto:contact@differentpathtolearning.com" className="text-primary hover:text-primary-dark transition-colors">
-                        contact@differentpathtolearning.com
+                      <a href="mailto:adifferentpathtolearing@gmail.com" className="text-primary hover:text-primary-dark transition-colors">
+                        adifferentpathtolearing@gmail.com
                       </a>
                       <p className="text-sm text-neutral-600 mt-1">
                         Response within 24 hours
@@ -192,8 +192,8 @@ export default function ContactSection() {
                     </div>
                     <div>
                       <h4 className="font-exo font-semibold text-lg mb-1 text-neutral-800">Phone</h4>
-                      <a href="tel:+61xxxxxxxxx" className="text-secondary hover:text-secondary-dark transition-colors">
-                        +61 XXX XXX XXX
+                      <a href="tel:+61432678007" className="text-secondary hover:text-secondary-dark transition-colors">
+                        0432 678 007
                       </a>
                       <p className="text-sm text-neutral-600 mt-1">
                         Available during business hours
@@ -205,7 +205,7 @@ export default function ContactSection() {
                 <div className="bg-white rounded-2xl p-6 shadow-sm">
                   <h4 className="font-exo font-semibold text-lg mb-4 text-neutral-800">Follow Me</h4>
                   <div className="flex space-x-4">
-                    <a href="https://www.instagram.com/adifferentpathtolearning?igsh=MWJ3YWZkeGxuOWNoOA%3D%3D&utm_source=qr" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-pink-600 text-white flex items-center justify-center hover:bg-pink-700 transition-colors">
+                    <a href="https://www.instagram.com/adifferentpathtolearing/" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-pink-600 text-white flex items-center justify-center hover:bg-pink-700 transition-colors">
                       <i className="fab fa-instagram"></i>
                     </a>
                   </div>
