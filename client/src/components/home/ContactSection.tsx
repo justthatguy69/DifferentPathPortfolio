@@ -205,17 +205,8 @@ export default function ContactSection() {
                 <div className="bg-white rounded-2xl p-6 shadow-sm">
                   <h4 className="font-exo font-semibold text-lg mb-4 text-neutral-800">Follow Me</h4>
                   <div className="flex space-x-4">
-                    <a href="#" className="w-12 h-12 rounded-full bg-blue-600 text-white flex items-center justify-center hover:bg-blue-700 transition-colors">
-                      <i className="fab fa-facebook-f"></i>
-                    </a>
-                    <a href="#" className="w-12 h-12 rounded-full bg-sky-500 text-white flex items-center justify-center hover:bg-sky-600 transition-colors">
-                      <i className="fab fa-twitter"></i>
-                    </a>
-                    <a href="#" className="w-12 h-12 rounded-full bg-pink-600 text-white flex items-center justify-center hover:bg-pink-700 transition-colors">
+                    <a href="https://www.instagram.com/adifferentpathtolearning?igsh=MWJ3YWZkeGxuOWNoOA%3D%3D&utm_source=qr" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-pink-600 text-white flex items-center justify-center hover:bg-pink-700 transition-colors">
                       <i className="fab fa-instagram"></i>
-                    </a>
-                    <a href="#" className="w-12 h-12 rounded-full bg-blue-700 text-white flex items-center justify-center hover:bg-blue-800 transition-colors">
-                      <i className="fab fa-linkedin-in"></i>
                     </a>
                   </div>
                 </div>
