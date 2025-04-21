@@ -17,7 +17,7 @@ export default function HeroSection() {
               A <span className="gradient-text">Different Path</span> to Learning Success
             </h1>
             <p className="text-lg sm:text-xl text-neutral-700 mb-8">
-              Specialized tutoring and mentoring services designed for boys aged 12-20 on the autism spectrum and those facing challenging lifestyles.
+              Specialised tutoring and mentoring services designed for boys aged 12-20 on the autism spectrum and those facing challenging lifestyles.
             </p>
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
               <a 
@@ -80,7 +80,7 @@ export default function HeroSection() {
                       <i className="fas fa-brain text-xl"></i>
                     </div>
                     <div>
-                      <h3 className="font-exo font-bold text-neutral-800">Personalized</h3>
+                      <h3 className="font-exo font-bold text-neutral-800">Personalised</h3>
                       <p className="text-sm text-neutral-600">Learning experience</p>
                     </div>
                   </div>

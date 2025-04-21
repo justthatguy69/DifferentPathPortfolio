@@ -50,9 +50,9 @@ export default function ApproachSection() {
             <div className="w-16 h-16 rounded-2xl bg-secondary/10 flex items-center justify-center text-secondary mb-6">
               <i className="fas fa-brain text-2xl"></i>
             </div>
-            <h3 className="font-exo font-semibold text-xl mb-3 text-neutral-800">Personalized Strategies</h3>
+            <h3 className="font-exo font-semibold text-xl mb-3 text-neutral-800">Personalised Strategies</h3>
             <p className="text-neutral-700 mb-6">
-              Each student receives an individualized learning plan that addresses their specific needs, learning style, and goals for academic and personal development.
+              Each student receives an individualised learning plan that addresses their specific needs, learning style, and goals for academic and personal development.
             </p>
             <div className="bg-neutral-100 rounded-xl p-4">
               <h4 className="font-exo font-medium text-neutral-800 mb-2 flex items-center text-sm">
@@ -86,7 +86,7 @@ export default function ApproachSection() {
                 Example Approach
               </h4>
               <p className="text-neutral-600 text-sm">
-                Practicing job interview skills, teaching financial literacy, and developing effective communication strategies for various social situations.
+                Practising job interview skills, teaching financial literacy, and developing effective communication strategies for various social situations.
               </p>
             </div>
           </motion.div>

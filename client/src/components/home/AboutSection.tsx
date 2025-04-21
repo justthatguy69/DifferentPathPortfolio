@@ -35,7 +35,7 @@ export default function AboutSection() {
                   <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center text-primary mb-3">
                     <i className="fas fa-user-shield text-xl"></i>
                   </div>
-                  <h4 className="font-exo font-semibold text-lg mb-2 text-neutral-800">Specialized Support</h4>
+                  <h4 className="font-exo font-semibold text-lg mb-2 text-neutral-800">Specialised Support</h4>
                   <p className="text-neutral-600 text-sm">
                     Tailored for boys aged 12-20 on the autism spectrum and those with challenging lifestyles.
                   </p>
@@ -88,7 +88,7 @@ export default function AboutSection() {
                   <h4 className="font-exo font-semibold text-neutral-800">Mission-Driven</h4>
                 </div>
                 <p className="text-neutral-600 text-sm">
-                  Committed to delivering supportive, engaging, and personalized educational experiences.
+                  Committed to delivering supportive, engaging, and personalised educational experiences.
                 </p>
               </motion.div>
             </div>
