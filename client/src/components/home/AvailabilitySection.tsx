@@ -132,7 +132,7 @@ export default function AvailabilitySection() {
               <div className="mt-8 pt-6 border-t border-neutral-200 relative z-10">
                 <h4 className="font-exo font-semibold text-lg mb-3 text-neutral-800">Service Areas</h4>
                 <p className="text-neutral-700 mb-4">
-                  Currently serving families within a 20-mile radius of central Sydney, with online sessions available nationwide.
+                  Currently serving families within a 20-mile radius of central Adelaide, with online sessions available nationwide.
                 </p>
                 <div className="text-sm text-neutral-600 italic">
                   Extended travel options available for certain situations — please inquire for details.
